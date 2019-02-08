@@ -1,7 +1,3 @@
-
-
-
-
 #EXTM3U
 #EXTINF:-1 tvg-ID="" tvg-name="########## OSN ##########" tvg-logo="http://cdn.mypanel.tv/picon/arabic.png" group-title="OSN",########## OSN ##########
 http://mypanel.tv:8080/live/3fkenaso2h/ylfYQPTQ/5918.m3u8
